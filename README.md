@@ -7,13 +7,18 @@
 `$ git clone https://github.com/Klavionik/python_coursework_1.git`  
 `$ cd python_coursework_1`  
 `$ pip install -r requirements.txt`  
-`$ python spygame.py`
 
 ### И что она делает?
 
 Находит те сообщества ВКонтакте, в которых состоит пользователь, но не состоит ни один его друг. Сохраняет результат работы в JSON-файл.
 
 ### Использование
+
+Запуск:
+
+```
+$ python spygame.py
+```
 
 Справка по доступным опциям:
 
