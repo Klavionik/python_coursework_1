@@ -4,8 +4,8 @@
 
 ### Установка
 
-`$ git clone https://github.com/Klavionik/python_coursework_1.git`  
-`$ cd python_coursework_1`  
+`$ git clone https://github.com/Klavionik/spygame.git`  
+`$ cd spygame`  
 `$ pip install -r requirements.txt`  
 
 ### И что она делает?
